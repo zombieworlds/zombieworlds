@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://zombieworlds.github.io/zombieworlds/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://zombieworlds.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://zombieworlds.github.io/zombieworlds/</loc>
+<loc>https://zombieworlds.github.io/</loc>
 </url>
 <url>
-<loc>https://zombieworlds.github.io/zombieworlds/der-weg-in-die-zombieapokalypse/</loc>
+<loc>https://zombieworlds.github.io/der-weg-in-die-zombieapokalypse/</loc>
 <lastmod>2020-07-20T20:06:39+02:00</lastmod>
 <image:image>
-<image:loc>https://zombieworlds.github.io/zombieworlds/media/posts/2/1926.129_web.jpg</image:loc>
+<image:loc>https://zombieworlds.github.io/media/posts/2/1926.129_web.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://zombieworlds.github.io/zombieworlds/ein-erster-beitrag/</loc>
+<loc>https://zombieworlds.github.io/ein-erster-beitrag/</loc>
 <lastmod>2020-07-17T15:47:52+02:00</lastmod>
 </url>
 <url>
-<loc>https://zombieworlds.github.io/zombieworlds/immunitaet/</loc>
+<loc>https://zombieworlds.github.io/immunitaet/</loc>
 <lastmod>2020-07-21T22:22:38+02:00</lastmod>
 <image:image>
-<image:loc>https://zombieworlds.github.io/zombieworlds/media/posts/5/Antibody.svg</image:loc>
+<image:loc>https://zombieworlds.github.io/media/posts/5/Antibody.svg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://zombieworlds.github.io/zombieworlds/infektion/</loc>
+<loc>https://zombieworlds.github.io/infektion/</loc>
 <lastmod>2020-07-21T18:58:23+02:00</lastmod>
 <image:image>
-<image:loc>https://zombieworlds.github.io/zombieworlds/media/posts/4/484px-Zika_virus_capsid.png</image:loc>
+<image:loc>https://zombieworlds.github.io/media/posts/4/484px-Zika_virus_capsid.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
