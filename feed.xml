@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Zombie Worlds</title>
-    <link href="https://zombieworlds.github.io/zombie-worlds/feed.xml" rel="self" />
-    <link href="https://zombieworlds.github.io/zombie-worlds" />
+    <link href="https://zombieworlds.github.io/zombieworlds/feed.xml" rel="self" />
+    <link href="https://zombieworlds.github.io/zombieworlds" />
     <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Platypus</name>
     </author>
-    <id>https://zombieworlds.github.io/zombie-worlds</id>
+    <id>https://zombieworlds.github.io/zombieworlds</id>
 
     <entry>
         <title>Immunität</title>
         <author>
             <name>Platypus</name>
         </author>
-        <link href="https://zombieworlds.github.io/zombie-worlds/immunitaet/"/>
-        <id>https://zombieworlds.github.io/zombie-worlds/immunitaet/</id>
+        <link href="https://zombieworlds.github.io/zombieworlds/immunitaet/"/>
+        <id>https://zombieworlds.github.io/zombieworlds/immunitaet/</id>
             <category term="Zombieapokalypse"/>
             <category term="Zombie Worlds"/>
             <category term="Spielleitung"/>
             <category term="Settingregeln"/>
             <category term="Savage Worlds"/>
 
-        <updated>2020-08-15T10:18:23+02:00</updated>
+        <updated>2020-08-15T10:22:56+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://zombieworlds.github.io/zombie-worlds/media/posts/5/Antibody.svg" alt="" />
+                        <img src="https://zombieworlds.github.io/zombieworlds/media/posts/5/Antibody.svg" alt="" />
                      Wie schon im Blogpost Infektion angedeutet, ist Immunität eine weitere Settingregel, die optional eingesetzt werden kann. Personen die immun sind, sind immer wieder ein spannendes Element, welches auch für Plot-Point-Kampagnen bestens geeignet sind. Bekannte Beispiele sind z.B. Ellie aus&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zombieworlds.github.io/zombie-worlds/media/posts/5/Antibody.svg" alt="" />
+                    <img src="https://zombieworlds.github.io/zombieworlds/media/posts/5/Antibody.svg" alt="" />
                 
   <p>
-    Wie schon im Blogpost <a href="https://zombieworlds.github.io/zombie-worlds/infektion/">Infektion</a> angedeutet, ist <em>Immunität</em> eine weitere <em>Settingregel</em>, die optional eingesetzt werden kann. Personen die immun sind, sind immer wieder ein spannendes Element, welches auch für <em>Plot-Point-Kampagnen</em> bestens geeignet sind. Bekannte Beispiele sind z.B. Ellie aus <em>Last of Us</em>, Murphy aus <em>Z Nation</em>&nbsp;oder im erweiterten Sinne auch Kee in <em>Children of Men</em>.
+    Wie schon im Blogpost <a href="https://zombieworlds.github.io/zombieworlds/infektion/">Infektion</a> angedeutet, ist <em>Immunität</em> eine weitere <em>Settingregel</em>, die optional eingesetzt werden kann. Personen die immun sind, sind immer wieder ein spannendes Element, welches auch für <em>Plot-Point-Kampagnen</em> bestens geeignet sind. Bekannte Beispiele sind z.B. Ellie aus <em>Last of Us</em>, Murphy aus <em>Z Nation</em>&nbsp;oder im erweiterten Sinne auch Kee in <em>Children of Men</em>.
   </p>
 
   <p>
@@ -75,7 +75,7 @@
   </p>
 
   <p>
-    In der <em>Settingregel</em> <a href="https://zombieworlds.github.io/zombie-worlds/infektion/">Infektion</a> besteht die hauchdünne Chance, dass ein Charakter sich nach einem Kontakt nicht angesteckt hat. Dieser Anlass könnte auch genutzt werden, um zu bestimmen, dass der Körper einer so geringen Konzentration ausgesetzt war, dass das Immunsystem noch rechtzeitig reagieren konnte und in Folge Antikörper bildet und zukünftig immun ist - quasi wie eine Impfung.
+    In der <em>Settingregel</em> <a href="https://zombieworlds.github.io/zombieworlds/infektion/">Infektion</a> besteht die hauchdünne Chance, dass ein Charakter sich nach einem Kontakt nicht angesteckt hat. Dieser Anlass könnte auch genutzt werden, um zu bestimmen, dass der Körper einer so geringen Konzentration ausgesetzt war, dass das Immunsystem noch rechtzeitig reagieren konnte und in Folge Antikörper bildet und zukünftig immun ist - quasi wie eine Impfung.
   </p>
 <hr class="separator separator--dots" />
 
@@ -98,27 +98,27 @@
         <author>
             <name>Platypus</name>
         </author>
-        <link href="https://zombieworlds.github.io/zombie-worlds/infektion/"/>
-        <id>https://zombieworlds.github.io/zombie-worlds/infektion/</id>
+        <link href="https://zombieworlds.github.io/zombieworlds/infektion/"/>
+        <id>https://zombieworlds.github.io/zombieworlds/infektion/</id>
             <category term="Zombieapokalypse"/>
             <category term="Zombie Worlds"/>
             <category term="Spielleitung"/>
             <category term="Settingregeln"/>
             <category term="Savage Worlds"/>
 
-        <updated>2020-08-15T10:18:23+02:00</updated>
+        <updated>2020-08-15T10:22:56+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://zombieworlds.github.io/zombie-worlds/media/posts/4/484px-Zika_virus_capsid.png" alt="" />
+                        <img src="https://zombieworlds.github.io/zombieworlds/media/posts/4/484px-Zika_virus_capsid.png" alt="" />
                      Wie schon im Blogpost Der Weg in die Zombieapokalypse beschrieben, gibt es viele Möglichkeiten ein Zombiesetting auszugestalten. Für mich persönlich fällt, wie schon angedeutet, das Fantasy-Genre raus. Auch übernatürliche Ursachen kommen für mich nicht in Frage - wobei die&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zombieworlds.github.io/zombie-worlds/media/posts/4/484px-Zika_virus_capsid.png" alt="" />
+                    <img src="https://zombieworlds.github.io/zombieworlds/media/posts/4/484px-Zika_virus_capsid.png" alt="" />
                 
   <p>
-    Wie schon im Blogpost <a href="https://zombieworlds.github.io/zombie-worlds/der-weg-in-die-zombieapokalypse/">Der Weg in die Zombieapokalypse</a> beschrieben, gibt es viele Möglichkeiten ein Zombiesetting auszugestalten. Für mich persönlich fällt, wie schon angedeutet, das Fantasy-Genre raus. Auch übernatürliche Ursachen kommen für mich nicht in Frage - wobei die Ideen Ingame gut gentutzt werden können. Religiös-fanatische Personen und Gruppen oder Verschwörungstheorien sind auch erzählerisch fester Bestandteil von modernen Weltuntergangsszenarien. Pilze oder vergleichbare Parasiten zwar sehr reizvoll, allerdings ist dies ein so deutliches Markenzeichen von Last of Us, dass es eigentlich unmöglich ist damit zu arbeiten, ohne sofort Assoziationen auszulösen oder gar in rechtliche Probleme zu geraten.
+    Wie schon im Blogpost <a href="https://zombieworlds.github.io/zombieworlds/der-weg-in-die-zombieapokalypse/">Der Weg in die Zombieapokalypse</a> beschrieben, gibt es viele Möglichkeiten ein Zombiesetting auszugestalten. Für mich persönlich fällt, wie schon angedeutet, das Fantasy-Genre raus. Auch übernatürliche Ursachen kommen für mich nicht in Frage - wobei die Ideen Ingame gut gentutzt werden können. Religiös-fanatische Personen und Gruppen oder Verschwörungstheorien sind auch erzählerisch fester Bestandteil von modernen Weltuntergangsszenarien. Pilze oder vergleichbare Parasiten zwar sehr reizvoll, allerdings ist dies ein so deutliches Markenzeichen von Last of Us, dass es eigentlich unmöglich ist damit zu arbeiten, ohne sofort Assoziationen auszulösen oder gar in rechtliche Probleme zu geraten.
   </p>
 
   <p>
@@ -222,21 +222,21 @@
         <author>
             <name>Platypus</name>
         </author>
-        <link href="https://zombieworlds.github.io/zombie-worlds/der-weg-in-die-zombieapokalypse/"/>
-        <id>https://zombieworlds.github.io/zombie-worlds/der-weg-in-die-zombieapokalypse/</id>
+        <link href="https://zombieworlds.github.io/zombieworlds/der-weg-in-die-zombieapokalypse/"/>
+        <id>https://zombieworlds.github.io/zombieworlds/der-weg-in-die-zombieapokalypse/</id>
             <category term="Zombieapokalypse"/>
             <category term="Worldbuilding"/>
 
-        <updated>2020-08-15T10:18:23+02:00</updated>
+        <updated>2020-08-15T10:22:56+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://zombieworlds.github.io/zombie-worlds/media/posts/2/1926.129_web.jpg" alt="" />
+                        <img src="https://zombieworlds.github.io/zombieworlds/media/posts/2/1926.129_web.jpg" alt="" />
                      Die Zombieapokalypse bzw. Zombies an sich sind seit Jahrzehnten in der Popkultur ein äußerst beliebtes Thema. Um die Thematik aus rollenspieltechnischer Sicht zu beleuchten, ist es daher unausweichlich, sich zunächst mit dem Genre auseinanderzusetzen, diese für das eigene Setting&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://zombieworlds.github.io/zombie-worlds/media/posts/2/1926.129_web.jpg" alt="" />
+                    <img src="https://zombieworlds.github.io/zombieworlds/media/posts/2/1926.129_web.jpg" alt="" />
                 
   <p>
     Die Zombieapokalypse bzw. Zombies an sich sind seit Jahrzehnten in der Popkultur ein äußerst beliebtes Thema. Um die Thematik aus rollenspieltechnischer Sicht zu beleuchten, ist es daher unausweichlich, sich zunächst mit dem Genre auseinanderzusetzen, diese für das eigene Setting zu filtern und die Spielregeln dann auf dieser Basis zu bauen. Daher folgt an dieser Stelle auch erstmal ein Überblick zu gängigen Erzählungen einer Zombieapokalypse.
@@ -297,12 +297,12 @@
         <author>
             <name>Platypus</name>
         </author>
-        <link href="https://zombieworlds.github.io/zombie-worlds/ein-erster-beitrag/"/>
-        <id>https://zombieworlds.github.io/zombie-worlds/ein-erster-beitrag/</id>
+        <link href="https://zombieworlds.github.io/zombieworlds/ein-erster-beitrag/"/>
+        <id>https://zombieworlds.github.io/zombieworlds/ein-erster-beitrag/</id>
             <category term="Allgemeines"/>
             <category term="Administratives"/>
 
-        <updated>2020-08-15T10:18:23+02:00</updated>
+        <updated>2020-08-15T10:22:56+02:00</updated>
             <summary>
                 <![CDATA[
                      Dies ist der erste Beitrag für das&nbsp;Pen&amp;Paper-Blog Zombie Worlds - der Bastelstube für ein modernes Zombie-Setting in Savage Worlds von Platypus. Der Blog wird mit Publii erstellt und auf Github-Pages gehostet. Das genutzte Theme ist&nbsp;Taste, welches leicht modifiziert wurde.
