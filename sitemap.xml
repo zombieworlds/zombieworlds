@@ -14,7 +14,11 @@
 </url>
 <url>
 <loc>https://zombieworlds.github.io/ein-erster-beitrag/</loc>
-<lastmod>2020-07-17T15:47:52+02:00</lastmod>
+<lastmod>2020-08-15T12:07:01+02:00</lastmod>
+<image:image>
+<image:loc>https://zombieworlds.github.io/media/posts/1/work.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://zombieworlds.github.io/immunitaet/</loc>
@@ -34,6 +38,10 @@
 </url>
 <url>
 <loc>https://zombieworlds.github.io/umzug-der-website/</loc>
-<lastmod>2020-08-15T10:37:26+02:00</lastmod>
+<lastmod>2020-08-15T12:07:10+02:00</lastmod>
+<image:image>
+<image:loc>https://zombieworlds.github.io/media/posts/7/work.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 </urlset>
