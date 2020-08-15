@@ -10,6 +10,35 @@
     <id>https://zombieworlds.github.io</id>
 
     <entry>
+        <title>Umzug der Website</title>
+        <author>
+            <name>Platypus</name>
+        </author>
+        <link href="https://zombieworlds.github.io/umzug-der-website/"/>
+        <id>https://zombieworlds.github.io/umzug-der-website/</id>
+            <category term="Allgemeines"/>
+            <category term="Administratives"/>
+
+        <updated>2020-08-15T10:37:34+02:00</updated>
+            <summary>
+                <![CDATA[
+                     Das Blog ist heute auf einen eigenen Github-Account umgezogen. Vor allem, um die Adresse ohne eigene Domain aufzuhübschen, aber auch um ein paar Sachen einfacher getrennt zu halten. Es könnten durch den Umzug noch kleinere Fehler auftauchen, die ich&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Das Blog ist heute auf einen eigenen Github-Account umgezogen. Vor allem, um die Adresse ohne eigene Domain aufzuhübschen, aber auch um ein paar Sachen einfacher getrennt zu halten. Es könnten durch den Umzug noch kleinere Fehler auftauchen, die ich im Hintergrund nach und nach ausbügeln werde.
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Immunität</title>
         <author>
             <name>Platypus</name>
@@ -22,7 +51,7 @@
             <category term="Settingregeln"/>
             <category term="Savage Worlds"/>
 
-        <updated>2020-08-15T10:29:51+02:00</updated>
+        <updated>2020-08-15T10:37:34+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://zombieworlds.github.io/media/posts/5/Antibody.svg" alt="" />
@@ -106,7 +135,7 @@
             <category term="Settingregeln"/>
             <category term="Savage Worlds"/>
 
-        <updated>2020-08-15T10:29:51+02:00</updated>
+        <updated>2020-08-15T10:37:34+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://zombieworlds.github.io/media/posts/4/484px-Zika_virus_capsid.png" alt="" />
@@ -227,7 +256,7 @@
             <category term="Zombieapokalypse"/>
             <category term="Worldbuilding"/>
 
-        <updated>2020-08-15T10:29:51+02:00</updated>
+        <updated>2020-08-15T10:37:34+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://zombieworlds.github.io/media/posts/2/1926.129_web.jpg" alt="" />
@@ -302,7 +331,7 @@
             <category term="Allgemeines"/>
             <category term="Administratives"/>
 
-        <updated>2020-08-15T10:29:51+02:00</updated>
+        <updated>2020-08-15T10:37:34+02:00</updated>
             <summary>
                 <![CDATA[
                      Dies ist der erste Beitrag für das&nbsp;Pen&amp;Paper-Blog Zombie Worlds - der Bastelstube für ein modernes Zombie-Setting in Savage Worlds von Platypus. Der Blog wird mit Publii erstellt und auf Github-Pages gehostet. Das genutzte Theme ist&nbsp;Taste, welches leicht modifiziert wurde.

@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://zombieworlds.github.io/umzug-der-website/",
+            "url": "https://zombieworlds.github.io/umzug-der-website/",
+            "title": "Umzug der Website",
+            "summary": " Das Blog ist heute auf einen eigenen Github-Account umgezogen. Vor allem, um die Adresse ohne eigene Domain aufzuhübschen, aber auch um ein paar Sachen einfacher getrennt zu halten. Es könnten durch den Umzug noch kleinere Fehler auftauchen, die ich&hellip;",
+            "content_html": "\n  <p>\n    Das Blog ist heute auf einen eigenen Github-Account umgezogen. Vor allem, um die Adresse ohne eigene Domain aufzuhübschen, aber auch um ein paar Sachen einfacher getrennt zu halten. Es könnten durch den Umzug noch kleinere Fehler auftauchen, die ich im Hintergrund nach und nach ausbügeln werde.\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Platypus"
+            },
+            "tags": [
+                   "Allgemeines",
+                   "Administratives"
+            ],
+            "date_published": "2020-08-15T10:37:34+02:00",
+            "date_modified": "2020-08-15T10:37:34+02:00"
+        },
+        {
             "id": "https://zombieworlds.github.io/immunitaet/",
             "url": "https://zombieworlds.github.io/immunitaet/",
             "title": "Immunität",
@@ -27,8 +43,8 @@
                    "Settingregeln",
                    "Savage Worlds"
             ],
-            "date_published": "2020-08-15T10:29:51+02:00",
-            "date_modified": "2020-08-15T10:29:51+02:00"
+            "date_published": "2020-08-15T10:37:34+02:00",
+            "date_modified": "2020-08-15T10:37:34+02:00"
         },
         {
             "id": "https://zombieworlds.github.io/infektion/",
@@ -47,8 +63,8 @@
                    "Settingregeln",
                    "Savage Worlds"
             ],
-            "date_published": "2020-08-15T10:29:51+02:00",
-            "date_modified": "2020-08-15T10:29:51+02:00"
+            "date_published": "2020-08-15T10:37:34+02:00",
+            "date_modified": "2020-08-15T10:37:34+02:00"
         },
         {
             "id": "https://zombieworlds.github.io/der-weg-in-die-zombieapokalypse/",
@@ -64,8 +80,8 @@
                    "Zombieapokalypse",
                    "Worldbuilding"
             ],
-            "date_published": "2020-08-15T10:29:51+02:00",
-            "date_modified": "2020-08-15T10:29:51+02:00"
+            "date_published": "2020-08-15T10:37:34+02:00",
+            "date_modified": "2020-08-15T10:37:34+02:00"
         },
         {
             "id": "https://zombieworlds.github.io/ein-erster-beitrag/",
@@ -80,8 +96,8 @@
                    "Allgemeines",
                    "Administratives"
             ],
-            "date_published": "2020-08-15T10:29:51+02:00",
-            "date_modified": "2020-08-15T10:29:51+02:00"
+            "date_published": "2020-08-15T10:37:34+02:00",
+            "date_modified": "2020-08-15T10:37:34+02:00"
         }
     ]
 }
